@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 # 📊 GITHUB STATS:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuhammedAdel6041&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedAdel6041&theme=algolia&hide_border=false" alt="GitHub Streak Stats" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedAdel6041&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
