@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 🛍️ **A dynamic e-commerce platform for seamless product browsing and transactions.**  
 - 🌟 **Tech Stack:** React.js, Vite, Tailwind CSS, Ant Design, Redux Toolkit, React Query, Axios  
 
-### 🔗 [Deadhunt Dashboard](https://deal-hunt.netlify.app/signup)
+### 🔗 [Deadhunt Dashboard](https://deal-hunt.netlify.app/)
 📊 **A responsive admin dashboard with real-time data fetching and visualization.**  
 - 🌟 **Tech Stack:** React.js, Vite, Tailwind CSS, Ant Design, React Query, Chart.js
   
