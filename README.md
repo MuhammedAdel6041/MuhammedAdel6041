@@ -46,13 +46,17 @@ Here are some ideas to get you started:
 ---
 
 # 🚀 FEATURED PROJECTS:
-### 🔗 [Cryptomeria](https://github.com/MuhammedAdel6041/cryptomeria)
+### 🔗 [Swap E-Commerce Platform](https://ecommerce-swap.netlify.app/)
+🛍️ **A dynamic e-commerce platform for seamless product browsing and transactions.**  
+- 🌟 **Tech Stack:** React.js, Vite, Tailwind CSS, Ant Design, Redux Toolkit, React Query, Axios  
+
+### 🔗 [Deadhunt Dashboard](https://deal-hunt.netlify.app/signup)
+📊 **A responsive admin dashboard with real-time data fetching and visualization.**  
+- 🌟 **Tech Stack:** React.js, Vite, Tailwind CSS, Ant Design, React Query, Chart.js
+  
+### 🔗 [Cryptomeria](https://cryptomeria.netlify.app/)
 🚀 **A cryptocurrency dashboard with real-time data and visualizations.**  
 - 🌟 **Tech Stack:** React.js, Vite, Tailwind CSS, Chart.js, Redux Toolkit, Axios  
-
-### 🔗 [Hand Made Online Shop](https://github.com/MuhammedAdel6041/handmade-shop)
-🎨 **An e-commerce platform for artisans to showcase handcrafted products.**  
-- 🌟 **Tech Stack:** React, Tailwind CSS, React Query, Next UI  
 
 ---
 
